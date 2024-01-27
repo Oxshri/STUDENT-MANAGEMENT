@@ -1,7 +1,14 @@
 body{margin-top:20px;}
 
+body {
+    margin-top: 100px;
+    background-image: url('register.png');
+    background-size: auto;
+    background-position: right;
+}
 
 /* USER LIST TABLE */
+
 .user-list tbody td > img {
     position: relative;
 	max-width: 50px;
